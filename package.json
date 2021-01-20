@@ -1,0 +1,15 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Galtrips",
+  "license": "ISC",
+
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
